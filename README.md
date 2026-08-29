@@ -38,7 +38,7 @@
 
 <div align="center">
 
-```text
+
 ╔══════════════════════════════════════════════════════════╗
 ║                    JARVIS CORE v3.0                     ║
 ╠══════════════════════════════════════════════════════════╣
@@ -51,3 +51,9 @@
 ║ STATUS       : ● ONLINE                                ║
 ║ MODE         : LEARNING & BUILDING                     ║
 ╚══════════════════════════════════════════════════════════╝
+</div>
+<h2>👩‍💻 ABOUT_ME</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Ana+Luiza+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Java+Developer+in+Progress+%E2%9A%A1;Always+Learning.+Always+Building." alt="Typing"/> </div> <br> <table> <tr> <td width="55%" valign="top"> <h3>✨ Quem sou eu?</h3> <p> Olá! Eu sou <strong>Ana Luiza Carvalho</strong>, estudante de <strong>Ciência da Computação</strong> e desenvolvedora em formação. </p> <p> Tenho interesse em tecnologia, programação e desenvolvimento de sistemas. Atualmente estou focada em fortalecer minha base de programação, desenvolver projetos práticos e aprender novas tecnologias. </p> <p> Meu objetivo é transformar conhecimento em projetos reais e continuar evoluindo como desenvolvedora. </p> </td> <td width="45%" valign="top"> <h3>🧠 PROFILE DATA</h3> <p><strong>🎓 Formação</strong><br> Ciência da Computação</p> <p><strong>☕ Linguagem principal</strong><br> Java</p> <p><strong>🌐 Interesse</strong><br> Desenvolvimento Web</p> <p><strong>🚀 Objetivo</strong><br> Evoluir como desenvolvedora</p> <p><strong>🟣 Status</strong><br> Learning & Building</p> </td> </tr> </table> <div align="center">
+
+💜 <strong>"Every expert was once a beginner."</strong>
+
+</div>
