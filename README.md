@@ -120,7 +120,6 @@ sobre:
 ana@github:~$ cat trajetoria.log
 
 [🎓] Universidade São Judas Tadeu — Ciência da Computação (cursando, 2º semestre)
-[✔]  E.E. Luiza Mendes Corrêa de Souza — Ensino Médio Completo (Dez/2025)
 [💼] Estagiária de TI — Indufix Parafusos (Mar/2026 – Atual)
      > Automação de processos com IA + integração Bitrix24
      > Desenvolvimento de fluxos automatizados com OpenAI
