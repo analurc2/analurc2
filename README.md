@@ -72,8 +72,8 @@
 ## `> SOBRE_MIM.exe`
 
 ```yaml
-sobre:
-  nome: "Ana Luiza Rodrigues Carvalho"
+
+  "Ana Luiza Rodrigues Carvalho"
   cargo: "Estudante de Ciência da Computação | Automação & IA"
   localizacao: "São Paulo, Brasil"
   formacao: "Ciência da Computação - Universidade São Judas Tadeu (cursando)"
