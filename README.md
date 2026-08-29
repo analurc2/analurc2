@@ -1,11 +1,5 @@
 
-### ✅ Vou corrigir de um jeito melhor
 
-Também vou deixar o README mais bonito e organizado, sem aqueles blocos internos que quebram a renderização.
-
-**Apague o conteúdo atual do seu `README.md` e cole este código inteiro de uma vez:**
-
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,40:4C1D95,70:7C3AED,100:A855F7&height=230&section=header&text=ANA%20LUIZA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20DEVELOPER%20MODE&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
