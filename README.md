@@ -188,11 +188,11 @@ Participação em evento de tecnologia com trilhas sobre Inteligência Artificia
 ana@github:~$ cat objetivos_2026.log
 
 [✔] Aprofundar automações com n8n e integrações via API REST
-[✔] Desenvolver soluções com IA aplicada a processos reais na Indufix
-[ ] Evoluir em Python e boas práticas de backend
-[ ] Contribuir com projetos open-source de automação
-[ ] Participar de novos hackathons e eventos de tecnologia
-[ ] Explorar mais a fundo IA Generativa e LLMs
+[✔] Desenvolver soluções com IA aplicada a processos reais 
+[✔] Evoluir em Python e boas práticas de backend
+[✔] Contribuir com projetos open-source de automação
+[✔] Participar de novos hackathons e eventos de tecnologia
+[✔] Explorar mais a fundo IA Generativa e LLMs
 
 ana@github:~$ _
 ```
